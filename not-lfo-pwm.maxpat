@@ -40,6 +40,18 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-4",
+					"linecount" : 4,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 297.0, 316.0, 150.0, 60.0 ],
+					"text" : "LFO Low Frequency Modulation \npulse wdith is modulated\nby non audible wave form"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"format" : 6,
 					"id" : "obj-28",
 					"maxclass" : "flonum",
