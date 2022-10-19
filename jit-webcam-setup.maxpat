@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1088.0, 155.0, 636.0, 756.0 ],
+		"rect" : [ 373.0, 131.0, 636.0, 756.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -124,7 +124,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-44",
-					"items" : "FaceTime HD Camera (Built-in)",
+					"items" : "<empty>",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -247,8 +247,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 296.0, 220.5, 192.0, 22.0 ],
-					"text" : "\"FaceTime HD Camera (Built-in)\""
+					"patching_rect" : [ 296.0, 220.5, 192.0, 22.0 ]
 				}
 
 			}
